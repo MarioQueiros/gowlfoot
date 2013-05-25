@@ -1,0 +1,388 @@
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Release\jogadores.mdf
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Release\jogadores_log.ldf
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Release\exemplo.exe.config
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Release\exemplo.exe
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Release\exemplo.pdb
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Release\exemplo.xml
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Release\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Release\Interop.FlashAccessibility.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Release\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\Interop.FlashAccessibility.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\GowlFoot.vbproj.ResolveComReference.cache
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\exemplo.campeonato.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\exemplo.posicoes1.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\exemplo.principal.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\exemplo.equipas.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\exemplo.posicoes.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\exemplo.Resources.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\exemplo.relatório_de_jogo.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\exemplo.taticas.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\exemplo.totais.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\GowlFoot.vbproj.GenerateResource.Cache
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\exemplo.exe
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\exemplo.xml
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Release\exemplo.pdb
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Debug\jogadores.mdf
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Debug\jogadores_log.ldf
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Debug\Interop.FlashAccessibility.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\Interop.FlashAccessibility.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.ResolveComReference.cache
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.GenerateResource.Cache
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\bin\Debug\exemplo.exe.config
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\exemplo.exe
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\exemplo.xml
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\exemplo.pdb
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\bin\Debug\jogadores.mdf
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\bin\Debug\jogadores_log.ldf
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\bin\Debug\exemplo.exe
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\bin\Debug\exemplo.pdb
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\bin\Debug\exemplo.xml
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.ResolveComReference.cache
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\exemplo.campeonato.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\exemplo.posicoes1.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\exemplo.principal.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\exemplo.equipas.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\exemplo.posicoes.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\exemplo.Resources.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\exemplo.relatório_de_jogo.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\exemplo.taticas.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\exemplo.totais.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.GenerateResource.Cache
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\exemplo.exe.config
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.exe
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.xml
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.pdb
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\jogadores.mdf
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\jogadores_log.ldf
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\exemplo.exe
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\exemplo.pdb
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\exemplo.xml
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\Interop.FlashAccessibility.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\Interop.FlashAccessibility.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.ResolveComReference.cache
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.campeonato.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.posicoes1.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.principal.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.equipas.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.posicoes.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.Resources.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.relatório_de_jogo.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.taticas.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.totais.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.GenerateResource.Cache
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\exemplo.exe.config
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.exe
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.xml
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.pdb
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\jogadores.mdf
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\jogadores_log.ldf
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\exemplo.exe
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\exemplo.pdb
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\exemplo.xml
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\Interop.FlashAccessibility.dll
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\Interop.FlashAccessibility.dll
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.ResolveComReference.cache
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.campeonato.resources
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.posicoes1.resources
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.principal.resources
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.equipas.resources
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.posicoes.resources
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.Resources.resources
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.relatório_de_jogo.resources
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.taticas.resources
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\exemplo.totais.resources
+C:\Users\Mário Pedro\Desktop\TESTE\GowlFoot - 2\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.GenerateResource.Cache
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\bin\Debug\GowlFoot.exe.config
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\bin\Debug\jogadores.mdf
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\bin\Debug\jogadores_log.ldf
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\bin\Debug\GowlFoot.exe
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\bin\Debug\GowlFoot.pdb
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\bin\Debug\GowlFoot.xml
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\bin\Debug\Interop.FlashAccessibility.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\Interop.FlashAccessibility.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\GowlFoot.vbproj.ResolveComReference.cache
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\GowlFoot.campeonato.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\GowlFoot.posicoes1.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\GowlFoot.principal.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\GowlFoot.equipas.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\GowlFoot.posicoes.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\GowlFoot.Resources.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\GowlFoot.relatório_de_jogo.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\GowlFoot.taticas.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\GowlFoot.totais.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\GowlFoot.vbproj.GenerateResource.Cache
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\GowlFoot.exe
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\GowlFoot.xml
+C:\Users\Mário Pedro\Desktop\My Dropbox\TESTE\GowlFoot\obj\Debug\GowlFoot.pdb
+C:\Users\Mário Pedro\Desktop\GowlFoot\bin\Debug\GowlFoot.exe.config
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\GowlFoot.exe
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\GowlFoot.xml
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\GowlFoot.pdb
+C:\Users\Mário Pedro\Desktop\GowlFoot\bin\Debug\jogadores.mdf
+C:\Users\Mário Pedro\Desktop\GowlFoot\bin\Debug\jogadores_log.ldf
+C:\Users\Mário Pedro\Desktop\GowlFoot\bin\Debug\GowlFoot.exe
+C:\Users\Mário Pedro\Desktop\GowlFoot\bin\Debug\GowlFoot.pdb
+C:\Users\Mário Pedro\Desktop\GowlFoot\bin\Debug\GowlFoot.xml
+C:\Users\Mário Pedro\Desktop\GowlFoot\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\bin\Debug\Interop.FlashAccessibility.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\Interop.FlashAccessibility.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\GowlFoot.vbproj.ResolveComReference.cache
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\GowlFoot.campeonato.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\GowlFoot.posicoes1.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\GowlFoot.principal.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\GowlFoot.equipas.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\GowlFoot.posicoes.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\GowlFoot.Resources.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\GowlFoot.relatório_de_jogo.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\GowlFoot.taticas.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\GowlFoot.totais.resources
+C:\Users\Mário Pedro\Desktop\GowlFoot\obj\Debug\GowlFoot.vbproj.GenerateResource.Cache
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Debug\GowlFoot.exe.config
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\GowlFoot.exe
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\GowlFoot.xml
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\GowlFoot.pdb
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Debug\GowlFoot.exe
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Debug\GowlFoot.pdb
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\bin\Debug\GowlFoot.xml
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\GowlFoot.campeonato.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\GowlFoot.posicoes1.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\GowlFoot.principal.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\GowlFoot.equipas.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\GowlFoot.posicoes.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\GowlFoot.Resources.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\GowlFoot.relatório_de_jogo.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\GowlFoot.taticas.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot\obj\Debug\GowlFoot.totais.resources
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.exe.config
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.exe
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.xml
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.pdb
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\jogadores.mdf
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\jogadores_log.ldf
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.exe
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.pdb
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.xml
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.FlashAccessibility.dll
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.FlashAccessibility.dll
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.ResolveComReference.cache
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.campeonato.resources
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.posicoes1.resources
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.principal.resources
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.equipas.resources
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.posicoes.resources
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.Resources.resources
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.relatório_de_jogo.resources
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.taticas.resources
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.totais.resources
+C:\Users\Mário Pedro\Downloads\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.GenerateResource.Cache
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.exe.config
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.exe
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.xml
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.pdb
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\jogadores.mdf
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\jogadores_log.ldf
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.exe
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.pdb
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.xml
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.FlashAccessibility.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.FlashAccessibility.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.ResolveComReference.cache
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.campeonato.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.posicoes1.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.principal.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.equipas.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.posicoes.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.Resources.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.relatório_de_jogo.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.taticas.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.totais.resources
+C:\Users\Dave\Desktop\GowlFoot\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.GenerateResource.Cache
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.exe.config
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.exe
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.xml
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.pdb
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\jogadores.mdf
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\jogadores_log.ldf
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.exe
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.pdb
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.xml
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.FlashAccessibility.dll
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.FlashAccessibility.dll
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.ResolveComReference.cache
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.campeonato.resources
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.posicoes1.resources
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.principal.resources
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.equipas.resources
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.posicoes.resources
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.Resources.resources
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.relatório_de_jogo.resources
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.taticas.resources
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.totais.resources
+C:\Users\Dave\Desktop\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.GenerateResource.Cache
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.exe.config
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.exe
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.xml
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.pdb
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\jogadores.mdf
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\jogadores_log.ldf
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.exe
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.pdb
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\GowlFoot.xml
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.FlashAccessibility.dll
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.FlashAccessibility.dll
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.ResolveComReference.cache
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.campeonato.resources
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.posicoes1.resources
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.principal.resources
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.equipas.resources
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.posicoes.resources
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.Resources.resources
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.relatório_de_jogo.resources
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.taticas.resources
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.totais.resources
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.vbproj.GenerateResource.Cache
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.site1.resources
+C:\Users\Mário Pedro\Documents\Downloads\GowlFoot_-_C__pia\GowlFoot - Cópia\GowlFoot(2)\GowlFoot\GowlFoot\obj\Debug\GowlFoot.creditos.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\bin\Debug\GowlFoot.exe.config
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.exe
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.xml
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.pdb
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\bin\Debug\jogadores.mdf
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\bin\Debug\jogadores_log.ldf
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\bin\Debug\GowlFoot.exe
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\bin\Debug\GowlFoot.pdb
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\bin\Debug\GowlFoot.xml
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\bin\Debug\Interop.FlashAccessibility.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\Interop.FlashAccessibility.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.vbproj.ResolveComReference.cache
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.campeonato.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.creditos.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.posicoes1.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.principal.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.equipas.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.posicoes.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.Resources.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.relatório_de_jogo.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.site1.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.taticas.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.totais.resources
+C:\Users\Mário Pedro\Desktop\My Dropbox\GowlFoot\obj\Debug\GowlFoot.vbproj.GenerateResource.Cache

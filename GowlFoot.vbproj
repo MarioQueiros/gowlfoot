@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0D6F743F-622E-4C05-9785-262D71061B48}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>GowlFoot.My.MyApplication</StartupObject>
+    <RootNamespace>GowlFoot</RootNamespace>
+    <AssemblyName>GowlFoot</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <ApplicationRevision>0</ApplicationRevision>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>GowlFoot.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>GowlFoot.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="campeonato.Designer.vb">
+      <DependentUpon>campeonato.vb</DependentUpon>
+    </Compile>
+    <Compile Include="campeonato.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="creditos.Designer.vb">
+      <DependentUpon>creditos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="creditos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jogadoresDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>jogadoresDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="jogadoresDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>jogadoresDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="posicoes1.Designer.vb">
+      <DependentUpon>posicoes1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="posicoes1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="principal.Designer.vb">
+      <DependentUpon>principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="equipas.Designer.vb">
+      <DependentUpon>equipas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="equipas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="posicoes.Designer.vb">
+      <DependentUpon>posicoes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="posicoes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jogadores.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jogadores.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="relatório de jogo.Designer.vb">
+      <DependentUpon>relatório de jogo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="relatório de jogo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="site1.Designer.vb">
+      <DependentUpon>site1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="site1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="taticas.Designer.vb">
+      <DependentUpon>taticas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="taticas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="totais.Designer.vb">
+      <DependentUpon>totais.vb</DependentUpon>
+    </Compile>
+    <Compile Include="totais.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="campeonato.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>campeonato.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="creditos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>creditos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="posicoes1.resx">
+      <DependentUpon>posicoes1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="principal.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="equipas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>equipas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="posicoes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>posicoes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="relatório de jogo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>relatório de jogo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="site1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>site1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="taticas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>taticas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="totais.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>totais.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Jogadores.xsc">
+      <DependentUpon>Jogadores.xsd</DependentUpon>
+    </None>
+    <None Include="Jogadores.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jogadores.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Jogadores.xss">
+      <DependentUpon>Jogadores.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.1.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="gf.ico" />
+    <Content Include="jogadores.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="jogadores_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>jogadores.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\balneario 10.jpg" />
+    <None Include="Resources\12.png" />
+    <None Include="Resources\65.png" />
+    <None Include="Resources\r.png" />
+    <None Include="Resources\ksad.png" />
+    <None Include="Resources\soccer ball.JPG" />
+    <None Include="Resources\wall.png" />
+    <None Include="Resources\comecar novo.png" />
+    <None Include="Resources\campeonato1.png" />
+    <None Include="Resources\classificacao.png" />
+    <None Include="Resources\relatorio.png" />
+    <None Include="Resources\relatoriojogo.png" />
+    <None Include="Resources\burr.gif" />
+    <None Include="Resources\voltar.png" />
+    <None Include="Resources\iniciar.png" />
+    <None Include="Resources\comecar jogo.png" />
+    <None Include="Resources\pausa.png" />
+    <None Include="Resources\321.png" />
+    <None Include="Resources\327.png" />
+    <None Include="Resources\clock.png" />
+    <None Include="Resources\546.png" />
+    <None Include="Resources\bla.png" />
+    <None Include="Resources\5.png" />
+    <None Include="Resources\4.png" />
+    <None Include="Resources\5643.png" />
+    <None Include="Resources\play1.png" />
+    <None Include="Resources\play.png" />
+    <None Include="Resources\horz_1.jpg" />
+    <None Include="Resources\tactica.jpg" />
+    <None Include="Resources\lunapic_127576429982670_2.gif" />
+    <None Include="Resources\porto.png" />
+    <None Include="Resources\benfica.png" />
+    <None Include="Resources\df.png" />
+    <None Include="Resources\campo2.jpg" />
+    <None Include="Resources\campo1.jpg" />
+    <None Include="Resources\ball.gif" />
+    <None Include="Resources\bolaroda.gif" />
+    <None Include="jogadoresDataSet.xsc">
+      <DependentUpon>jogadoresDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="jogadoresDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>jogadoresDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="jogadoresDataSet.xss">
+      <DependentUpon>jogadoresDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="jogadoresDataSet1.xsc">
+      <DependentUpon>jogadoresDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="jogadoresDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>jogadoresDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="jogadoresDataSet1.xss">
+      <DependentUpon>jogadoresDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\campofutebol.png" />
+    <None Include="Resources\campo-de-futebol-thumb30232912.jpg" />
+    <None Include="Resources\futebol-3930.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxDIRECTORSHOCKWAVELib">
+      <Guid>{AC4C21AD-9194-416E-9D34-D6C1350F28F6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxSHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="DIRECTORSHOCKWAVELib">
+      <Guid>{AC4C21AD-9194-416E-9D34-D6C1350F28F6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="FlashAccessibility">
+      <Guid>{57A0E746-3863-4D20-A811-950C84F1DB9B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
